@@ -26,8 +26,12 @@ grupo de personas. Los usuarios pueden ingresar nombres a una lista visible y, <
 
 <h1>🎥 Video del proyecto</h1>
 
-https://github.com/user-attachments/assets/012d517f-2ad0-411d-9b0b-ece42c64414f
+https://github.com/user-attachments/assets/d3c9994a-df60-4087-b561-871d458149a6
 
-![](https://github.com/user-attachments/assets/f33f6947-2878-4480-9d28-5636f81e3468)
+
+
+
+
+
 
 
