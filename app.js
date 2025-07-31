@@ -52,8 +52,7 @@
       document.getElementById("resultado").innerHTML = ` El amigo secreto es: 🎉${nombreSorteado}`; 
 
       // Limpiar la lista visible para que no aparezcan los nombres
-      document.getElementById("listaAmigos").innerHTML = "";
-      
+      document.getElementById("listaAmigos").innerHTML = ""; 
     }
 
        
