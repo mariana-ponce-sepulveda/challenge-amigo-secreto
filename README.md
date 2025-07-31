@@ -14,8 +14,6 @@ grupo de personas. Los usuarios pueden ingresar nombres a una lista visible y, <
 1. Agregar nombres: Los usuarios pueden ingresar nombres mediante un campo de texto y agregarlos a una lista visible.<br>
 2. Validación de entrada:<br>
 - Si el campo está vacío.<br>
-- Si el nombre ya fue agregado.<br>
-- Si el nombre tiene menos de 3 letras.<br>
 3. Lista visible: Los nombres añadidos aparecen en una lista ordenada para mayor claridad.<br>
 4. Sorteo aleatorio: Al hacer clic en "Sortear Amigo", se selecciona un nombre al azar de la lista y se muestra en pantalla como el amigo secreto.<br>
 
