@@ -19,7 +19,7 @@
       // Mostrar lista actualizada
       mostrarAmigos();
  
-      // Limpiar input y dejar foco para nuevo ingreso
+      // Limpiar input para nuevo ingreso
       input.value = "";
     }
 
